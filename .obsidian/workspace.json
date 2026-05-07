@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/studio-bio.md",
+                "file": "plan-studio-systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "studio-bio"
+              "title": "plan-studio-systems"
             }
           }
         ]
@@ -185,8 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "888163060698b210",
+  "active": "25090cd46a1bab88",
   "lastOpenFiles": [
+    "plan-community-presence.md",
+    "plan-studio-systems.md",
+    "plan-legal-formation.md",
+    "tasks.md",
     "marketing/strategy.md",
     "marketing/studio-bio.md",
     "values.md",
@@ -195,7 +199,6 @@
     "tasks.md.tmp.57143.4bac1843a28c",
     "Untitled.md",
     "types of features.md",
-    "tasks.md",
     "game_idea_archive.md",
     "marketing/account-setup-checklist.md",
     "plan-community-presence.md.tmp.55787.401428ccd65b",
@@ -206,12 +209,9 @@
     "marketing/studio-bio.md.tmp.55787.fd70395fbf42",
     "Feature backlog schema.md",
     "marketing/account-setup-checklist.md.tmp.18451.a3daae473b2a",
-    "plan-community-presence.md",
     "gmtk_gamedev101.md",
-    "plan-studio-systems.md",
     "project_aurora.md",
     "projects.md",
-    "plan-legal-formation.md",
     "studio_design_manifesto.md",
     "legal/operating-agreement.md",
     "video_game_development_process.md",
