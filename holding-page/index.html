@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ember Horizon Studios</title>
+  <meta name="description" content="A solo indie game studio crafting experiences that stay with you. Every game, intentionally unforgettable." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --bg:        #0c0c12;
+      --text:      #f0ede6;
+      --muted:     #7a7690;
+      --accent:    #e07a3a;
+      --accent-dim:#8a4a1f;
+      --border:    rgba(224, 122, 58, 0.2);
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', system-ui, sans-serif;
+      font-weight: 300;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 2rem;
+      overflow-x: hidden;
+    }
+
+    /* Ember glow behind the title */
+    body::before {
+      content: '';
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -60%);
+      width: 600px;
+      height: 400px;
+      background: radial-gradient(ellipse at center, rgba(224, 122, 58, 0.08) 0%, transparent 70%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 560px;
+      width: 100%;
+      text-align: center;
+    }
+
+    /* Studio mark */
+    .mark {
+      display: inline-block;
+      width: 48px;
+      height: 48px;
+      margin-bottom: 2rem;
+      opacity: 0.9;
+    }
+
+    .mark svg {
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Studio name */
+    h1 {
+      font-family: 'DM Serif Display', Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(2rem, 5vw, 2.75rem);
+      letter-spacing: -0.01em;
+      line-height: 1.1;
+      color: var(--text);
+      margin-bottom: 1rem;
+    }
+
+    /* Tagline */
+    .tagline {
+      font-size: 0.85rem;
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 2.5rem;
+    }
+
+    /* Divider */
+    .divider {
+      width: 40px;
+      height: 1px;
+      background: var(--border);
+      margin: 0 auto 2.5rem;
+    }
+
+    /* Description */
+    .description {
+      font-size: 1rem;
+      line-height: 1.75;
+      color: var(--muted);
+      margin-bottom: 3rem;
+    }
+
+    /* Email form */
+    .form-label {
+      display: block;
+      font-size: 0.75rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    .form-row {
+      display: flex;
+      gap: 0;
+      max-width: 420px;
+      margin: 0 auto 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .form-row:focus-within {
+      border-color: var(--accent);
+    }
+
+    .form-row input[type="email"] {
+      flex: 1;
+      background: rgba(255,255,255,0.03);
+      border: none;
+      outline: none;
+      padding: 0.85rem 1.1rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.9rem;
+      font-weight: 300;
+      color: var(--text);
+    }
+
+    .form-row input[type="email"]::placeholder {
+      color: var(--muted);
+    }
+
+    .form-row button {
+      background: var(--accent);
+      border: none;
+      padding: 0.85rem 1.4rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #0c0c12;
+      cursor: pointer;
+      transition: background 0.2s;
+      white-space: nowrap;
+    }
+
+    .form-row button:hover {
+      background: #f08d50;
+    }
+
+    .form-note {
+      font-size: 0.72rem;
+      color: var(--muted);
+      opacity: 0.6;
+    }
+
+    /* Social links */
+    .socials {
+      margin-top: 3.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.5rem;
+    }
+
+    .socials a {
+      font-size: 0.75rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .socials a:hover {
+      color: var(--text);
+    }
+
+    .socials .sep {
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      background: var(--border);
+    }
+
+    /* Footer */
+    footer {
+      position: fixed;
+      bottom: 1.5rem;
+      left: 0;
+      right: 0;
+      text-align: center;
+      font-size: 0.7rem;
+      color: var(--muted);
+      opacity: 0.4;
+      z-index: 1;
+    }
+
+    /* Success state */
+    .success-msg {
+      display: none;
+      font-size: 0.85rem;
+      color: var(--accent);
+      margin-top: 1rem;
+      letter-spacing: 0.05em;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- Ember mark: stylized flame/horizon icon -->
+    <div class="mark">
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 6 C24 6 14 16 14 26 C14 31.5 18.5 36 24 36 C29.5 36 34 31.5 34 26 C34 16 24 6 24 6Z" fill="none" stroke="#e07a3a" stroke-width="1.5" stroke-linejoin="round"/>
+        <path d="M24 20 C24 20 19 25 19 29 C19 31.8 21.2 34 24 34 C26.8 34 29 31.8 29 29 C29 25 24 20 24 20Z" fill="#e07a3a" opacity="0.5"/>
+        <line x1="10" y1="41" x2="38" y2="41" stroke="#e07a3a" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+      </svg>
+    </div>
+
+    <h1>Ember Horizon Studios</h1>
+    <p class="tagline">Every game, intentionally unforgettable.</p>
+
+    <div class="divider"></div>
+
+    <p class="description">
+      A solo indie game studio crafting experiences that stay with you.<br />
+      Something is being built. Follow along.
+    </p>
+
+    <!-- Formspree email capture -->
+    <!-- TO ACTIVATE: sign up at formspree.io, create a form, and replace YOUR_FORM_ID below -->
+    <form
+      action="https://formspree.io/f/xqenddvo"
+      method="POST"
+      onsubmit="handleSubmit(event)"
+    >
+      <label class="form-label" for="email">Stay in the loop</label>
+      <div class="form-row">
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="your@email.com"
+          required
+        />
+        <button type="submit">Notify me</button>
+      </div>
+      <p class="form-note">No spam. Updates when something ships.</p>
+      <p class="success-msg" id="success">You're on the list. Thanks.</p>
+    </form>
+
+    <nav class="socials">
+      <a href="https://x.com/EmberHznStudios" target="_blank" rel="noopener">X</a>
+      <span class="sep"></span>
+      <a href="https://www.youtube.com/@EmberHznStudios" target="_blank" rel="noopener">YouTube</a>
+      <span class="sep"></span>
+      <a href="https://www.tiktok.com/@emberhznstudios" target="_blank" rel="noopener">TikTok</a>
+      <span class="sep"></span>
+      <a href="mailto:contact@emberhorizonstudios.com">Contact</a>
+    </nav>
+
+  </div>
+
+  <footer>&copy; 2026 Ember Horizon Studios LLC</footer>
+
+  <script>
+    async function handleSubmit(e) {
+      e.preventDefault();
+      const form = e.target;
+      const data = new FormData(form);
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          body: data,
+          headers: { 'Accept': 'application/json' }
+        });
+        if (res.ok) {
+          form.querySelector('.form-row').style.display = 'none';
+          form.querySelector('.form-note').style.display = 'none';
+          form.querySelector('.form-label').style.display = 'none';
+          document.getElementById('success').style.display = 'block';
+        }
+      } catch {
+        // fail silently — form still submits via native POST as fallback
+        form.submit();
+      }
+    }
+  </script>
+
+</body>
+</html>

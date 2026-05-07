@@ -26,3 +26,16 @@ Every game, intentionally unforgettable.
 | Reddit | u/EmberHorizonStudios |
 
 *LinkedIn and Facebook pages not yet created — lower priority, reserve when convenient.*
+
+---
+
+## Email Aliases
+
+All route to jacobodonnell@emberhorizonstudios.com.
+
+| Alias | Use |
+|---|---|
+| contact@emberhorizonstudios.com | General inquiries |
+| press@emberhorizonstudios.com | Press and media |
+| dev@emberhorizonstudios.com | Developer / collaboration |
+| support@emberhorizonstudios.com | Player support |
