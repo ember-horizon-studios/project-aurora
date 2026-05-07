@@ -1,0 +1,40 @@
+Feature Backlog Schema:
+
+- Name
+- Feature Type
+	- Mechanical
+	- Systems
+	- Environmental
+	- Technical
+	- Sensory
+- Status
+	- Backlog
+	- In Progress
+	- Quality Assurance
+	- Finished
+	- Paused
+	- Terminated
+- Priority
+	- High
+	- Medium
+	- Low
+- Effort (Fibonacci)
+	- 1
+	- 2
+	- 3
+	- 5
+	- 8
+	- 13
+	- 21
+- Design Pillar
+	- Immersion
+	- Discovery
+	- Thrill of Danger
+	- Intellectual Problem Solving
+	- Beauty
+- Release
+	- Prototype
+	- First Playable (Itch.io demo)
+	- Alpha
+	- Beta (Steam Demo)
+	- Gold
