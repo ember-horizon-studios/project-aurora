@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plan-studio-systems.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan-studio-systems"
+              "title": "tasks"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "25090cd46a1bab88",
   "lastOpenFiles": [
-    "plan-community-presence.md",
     "plan-studio-systems.md",
+    "plan-community-presence.md",
     "plan-legal-formation.md",
     "tasks.md",
     "marketing/strategy.md",
