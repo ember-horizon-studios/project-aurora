@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>Brand Preview — Ember Horizon Studios</title>
+  <style>
+    body { margin: 0; background: #555; font-family: Arial, sans-serif; padding: 2rem; }
+    h2 { color: white; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; margin: 0 0 0.5rem; opacity: 0.6; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; }
+    .card { padding: 2rem; border-radius: 6px; display: flex; flex-direction: column; align-items: center; gap: 0.75rem; }
+    .card.dark  { background: #0c0c12; }
+    .card.light { background: #ffffff; }
+    .card.grey  { background: #888; }
+    .card img, .card object { max-width: 100%; height: auto; }
+    .label { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; }
+    .dark .label  { color: #7a7690; }
+    .light .label { color: #7a7690; }
+    .grey .label  { color: #eee; }
+    .avatars { display: flex; gap: 1rem; align-items: center; }
+    .avatar { border-radius: 50%; overflow: hidden; width: 80px; height: 80px; }
+    .avatar img { width: 100%; height: 100%; object-fit: cover; }
+  </style>
+</head>
+<body>
+  <div class="grid">
+
+    <div>
+      <h2>Primary — Dark bg</h2>
+      <div class="card dark">
+        <img src="logo-primary.svg" alt="Primary logo"/>
+        <span class="label">logo-primary.svg</span>
+      </div>
+    </div>
+
+    <div>
+      <h2>Reversed — Light bg</h2>
+      <div class="card light">
+        <img src="logo-reversed.svg" alt="Reversed logo"/>
+        <span class="label">logo-reversed.svg</span>
+      </div>
+    </div>
+
+    <div>
+      <h2>Mono Dark — Transparent bg</h2>
+      <div class="card light">
+        <img src="logo-mono-dark.svg" alt="Mono dark logo"/>
+        <span class="label">logo-mono-dark.svg</span>
+      </div>
+    </div>
+
+    <div>
+      <h2>Mono Light — Transparent bg</h2>
+      <div class="card grey">
+        <img src="logo-mono-light.svg" alt="Mono light logo"/>
+        <span class="label">logo-mono-light.svg</span>
+      </div>
+    </div>
+
+    <div>
+      <h2>Mark Only — Avatar use</h2>
+      <div class="card dark">
+        <div class="avatars">
+          <div class="avatar"><img src="logo-mark.svg" alt="Logo mark large"/></div>
+          <div class="avatar" style="width:50px;height:50px"><img src="logo-mark.svg" alt="Logo mark medium"/></div>
+          <div class="avatar" style="width:32px;height:32px"><img src="logo-mark.svg" alt="Logo mark small"/></div>
+        </div>
+        <span class="label">logo-mark.svg — at 80px / 50px / 32px</span>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

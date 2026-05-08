@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+  <!-- Square avatar format — for social media profiles -->
+  <defs>
+    <clipPath id="circle-clip">
+      <circle cx="200" cy="200" r="152"/>
+    </clipPath>
+  </defs>
+
+  <!-- Dark square background -->
+  <rect width="400" height="400" fill="#0c0c12"/>
+
+  <!-- Circle base (sky) -->
+  <circle cx="200" cy="200" r="152" fill="#0c0c12"/>
+
+  <!-- Orange sun -->
+  <circle cx="200" cy="330" r="145" fill="#e07a3a" clip-path="url(#circle-clip)"/>
+
+  <!-- Mountain silhouettes -->
+  <polygon points="10,370 102,195 192,370"  fill="#0c0c12" clip-path="url(#circle-clip)"/>
+  <polygon points="128,370 200,133 272,370" fill="#0c0c12" clip-path="url(#circle-clip)"/>
+  <polygon points="188,370 298,195 390,370" fill="#0c0c12" clip-path="url(#circle-clip)"/>
+
+  <!-- Circle ring -->
+  <circle cx="200" cy="200" r="152" fill="none" stroke="#e07a3a" stroke-width="4"/>
+</svg>
