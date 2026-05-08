@@ -80,12 +80,12 @@ Tasks are generated one milestone at a time. M3 tasks are not generated until M2
 
 *Domain (emberhorizonstudios.com via Cloudflare) and primary email (jacobodonnell@emberhorizonstudios.com via Google Workspace) already active. Tasks focus on what remains.*
 
-| #   | Task                                                                                                                                                                         | Value tags            | Energy | Est. Min | Status  | Due |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------ | -------- | ------- | --- |
+| #   | Task                                                                                                                                                                         | Value tags            | Energy | Est. Min | Status    | Due |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------ | -------- | --------- | --- |
 | 1   | Add a public-facing email alias (contact@, support@, dev@, press@) in Google Workspace admin — mail routes to existing inbox, no new account needed                          | Stewardship           | L      | 15       | Completed |     |
-| 2   | Set up a holding page for emberhorizonstudios.com — use Cloudflare Pages (free, no hosting cost); minimal content: studio name, tagline, and "coming soon" with email signup | Autonomy, Stewardship | M      | 60       | Pending |     |
-| 3   | Finalize profile avatar for X, YouTube, TikTok, and Instagram — replace placeholder with a consistent studio image (logo, wordmark, or illustrated mark)                     | Autonomy              | M      | 45       | Pending |     |
-| 4   | Write and publish a pinned intro post on X — introduce the studio, what you're building, and what followers can expect; keep it under 280 characters                         | Autonomy              | M      | 30       | Pending |     |
+| 2   | Set up a holding page for emberhorizonstudios.com — use Cloudflare Pages (free, no hosting cost); minimal content: studio name, tagline, and "coming soon" with email signup | Autonomy, Stewardship | M      | 60       | Completed |     |
+| 3   | Finalize profile avatar for X, YouTube, TikTok, and Instagram — replace placeholder with a consistent studio image (logo, wordmark, or illustrated mark)                     | Autonomy              | M      | 45       | Pending   |     |
+| 4   | Write and publish a pinned intro post on X — introduce the studio, what you're building, and what followers can expect; keep it under 280 characters                         | Autonomy              | M      | 30       | Completed |     |
 
 **M2 energy profile:** Task 2 (holding page) is the heaviest — budget a focused block. Tasks 1 and 4 are quick. Task 3 depends on having avatar art ready; if art isn't ready, it can be the last thing before M2 closes.
 
