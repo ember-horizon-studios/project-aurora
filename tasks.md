@@ -74,20 +74,31 @@ Tasks are generated one milestone at a time. M3 tasks are not generated until M2
 
 ---
 
-## Active: P3-M2 — Public Presence Live
+## Closed: P3-M2 — Public Presence Live ✓
 
-*Goal: Domain pointing to a holding page. Public-facing studio email alias active. Profile image finalized across active channels. Pinned intro post live on X.*
-
-*Domain (emberhorizonstudios.com via Cloudflare) and primary email (jacobodonnell@emberhorizonstudios.com via Google Workspace) already active. Tasks focus on what remains.*
+*Closed 2026-05-07. Domain live (emberhorizonstudios.com via Cloudflare Pages). Four email aliases active (contact@, press@, dev@, support@). Logo finalized in Inkscape with text converted to paths; avatar uploaded to X, YouTube, TikTok, and Instagram. Pinned intro post live on X. M3 unlocked.*
 
 | #   | Task                                                                                                                                                                         | Value tags            | Energy | Est. Min | Status    | Due |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------ | -------- | --------- | --- |
 | 1   | Add a public-facing email alias (contact@, support@, dev@, press@) in Google Workspace admin — mail routes to existing inbox, no new account needed                          | Stewardship           | L      | 15       | Completed |     |
 | 2   | Set up a holding page for emberhorizonstudios.com — use Cloudflare Pages (free, no hosting cost); minimal content: studio name, tagline, and "coming soon" with email signup | Autonomy, Stewardship | M      | 60       | Completed |     |
-| 3   | Finalize profile avatar for X, YouTube, TikTok, and Instagram — replace placeholder with a consistent studio image (logo, wordmark, or illustrated mark)                     | Autonomy              | M      | 45       | Pending   |     |
+| 3   | Finalize profile avatar for X, YouTube, TikTok, and Instagram — replace placeholder with a consistent studio image (logo, wordmark, or illustrated mark)                     | Autonomy              | M      | 45       | Completed |     |
 | 4   | Write and publish a pinned intro post on X — introduce the studio, what you're building, and what followers can expect; keep it under 280 characters                         | Autonomy              | M      | 30       | Completed |     |
 
-**M2 energy profile:** Task 2 (holding page) is the heaviest — budget a focused block. Tasks 1 and 4 are quick. Task 3 depends on having avatar art ready; if art isn't ready, it can be the last thing before M2 closes.
+---
+
+## Active: P3-M3 — First Devlog Published
+
+*Goal: First devlog published on the primary channel (X). Content covers studio origin, what's being built, and what to expect. Content plan for the next 4 weeks drafted in `marketing/content-calendar.md`.*
+
+| #   | Task                                                                                                                                                                                                       | Value tags                     | Energy | Est. Min | Status  | Due |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------ | -------- | ------- | --- |
+| 1   | Draft the first devlog — cover studio origin, what you're building, and what followers can expect; aim for 400–600 words; save to `marketing/devlog-001.md`                                                 | Autonomy, Intellectual Inquiry | H      | 90       | Pending |     |
+| 2   | Edit and finalize devlog — check tone against `marketing/strategy.md`; tighten for the medium (X thread or long post); confirm it reads right for someone discovering the studio for the first time         | Autonomy                       | M      | 30       | Pending |     |
+| 3   | Publish the devlog on X — thread or single post depending on length; tag appropriately (#indiedev, #gamedev); do not cross-post until the X version is confirmed live                                      | Autonomy                       | L      | 20       | Pending |     |
+| 4   | Draft a 4-week content calendar — 3–5 posts/week on X, 1–2 short videos/week when in active dev; save to `marketing/content-calendar.md`; reference the content pillars in `marketing/strategy.md`        | Stewardship                    | M      | 45       | Pending |     |
+
+**M3 energy profile:** Task 1 is the heaviest creative lift — block 90 min uninterrupted. Tasks 2 and 3 follow naturally. Task 4 is planning work, best done after the first post is live so the calendar feels grounded.
 
 ---
 

@@ -42,10 +42,10 @@ Sequential. Identity must be locked before public presence is established; prese
 | Dependency                        | Type      | Required By    | Status           |
 | --------------------------------- | --------- | -------------- | ---------------- |
 | Studio name confirmed             | External  | M1             | ✓ Met 2026-05-04 |
-| Brand identity (M1 output)        | M1 output | M2             | Not available    |
-| Domain registered                 | M2 output | M3 holding page| Not available    |
-| Studio email active               | M2 output | M3 contact     | Not available    |
-| Social channel live (M2 output)   | M2 output | M3             | Not available    |
+| Brand identity (M1 output)        | M1 output | M2             | ✓ Met 2026-05-06 |
+| Domain registered                 | M2 output | M3 holding page| ✓ Met 2026-05-07 |
+| Studio email active               | M2 output | M3 contact     | ✓ Met 2026-05-07 |
+| Social channel live (M2 output)   | M2 output | M3             | ✓ Met 2026-05-07 |
 
 ---
 
@@ -72,3 +72,4 @@ Sequential. Identity must be locked before public presence is established; prese
 | 2026-05-06 | —         | Plan built. P2-M1 closed. M1 tasks generated in tasks.md. |
 | 2026-05-06 | M1        | Closed. Studio description and tagline written. X/YouTube Shorts/TikTok selected as active channels. Handles reserved across 8 platforms as @EmberHznStudios. marketing/strategy.md seeded. M2 unlocked. |
 | 2026-05-06 | M2        | Started. Domain (emberhorizonstudios.com, Cloudflare) and email (jacobodonnell@emberhorizonstudios.com, Google Workspace) already active — P3 owns these, P2-M3 domain/email tasks resolved via P3. Remaining: public alias, holding page, avatar, pinned post. |
+| 2026-05-07 | M2        | Closed. All four email aliases active. Holding page live on Cloudflare Pages. Logo finalized in Inkscape (text converted to paths); avatar uploaded to X, YouTube, TikTok, Instagram. Pinned intro post live on X. M3 unlocked. |
