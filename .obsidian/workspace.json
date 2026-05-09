@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/roguelite-horror-ideas.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "roguelite-horror-ideas"
+              "title": "tasks"
             }
           }
         ]
@@ -187,8 +187,11 @@
   },
   "active": "25090cd46a1bab88",
   "lastOpenFiles": [
-    "tasks.md",
+    "studio_design_manifesto.md",
+    "templates/one_pager_concept_document.md",
+    "templates/pitch_deck.md",
     "concepts/roguelite-horror-ideas.md",
+    "tasks.md",
     "concepts/roguelite-horror-ideas.md.tmp.92513.1e5785527494",
     "concepts",
     "business_model.md.tmp.92513.312a34c452c6",
@@ -208,7 +211,6 @@
     "marketing/brand/logo-mono-dark.svg",
     "marketing/brand/logo-mark.svg",
     "marketing/brand/logo-mark.png",
-    "studio_design_manifesto.md",
     "plan-community-presence.md.tmp.128015.699e04f15c79",
     "marketing/brand_new/logo-primary.svg",
     "marketing/brand/brand-colors.md",
@@ -228,8 +230,6 @@
     "llc_filing_template.md",
     "steam_market_research.md",
     "business_model.md",
-    "Untitled/Untitled 1.md",
-    "Untitled/Untitled.md",
     "images/populous_agario_prophecy.png",
     "images/divine_inspiration_tree_cult_of_the_lamb.png",
     "images/age_of_empires_and_populous_characters.png"
