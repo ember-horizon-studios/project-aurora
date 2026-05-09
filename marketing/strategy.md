@@ -1,6 +1,6 @@
 # Marketing Strategy — Ember Horizon Studios
 
-*Reference this file before starting any marketing task. Last updated: 2026-05-06.*
+*Reference this file before starting any marketing task. Last updated: 2026-05-09.*
 
 ---
 
@@ -18,9 +18,14 @@ Ember Horizon communicates with quiet conviction — not hype, not self-deprecat
 
 ## Target Audience
 
-**Players who take interactivity seriously.**
+**Players who take interactivity seriously — and who like the lights low.**
 
-Not a demographic — a mindset. These are players who come to games for the thinking, the discovery, and the moments that stick. They've played Outer Wilds. They finish games slowly because they're paying attention. They talk about games the way others talk about films.
+Not a demographic — a mindset. These are players who come to games for the thinking, the discovery, and the moments that stick. They finish games (or runs) slowly because they're paying attention. They talk about games the way others talk about films.
+
+Anchor references for the studio's current lane (roguelite + psychological horror):
+- They've played and recommended *Buckshot Roulette*, *Inscryption*, *Faith: The Unholy Trinity*, *Mouthwashing*, *Crow Country*, *Iron Lung*.
+- They'll also have played *Outer Wilds*, *Return of the Obra Dinn*, *Disco Elysium* — slow-comprehension games whose audience overlaps heavily with the horror-curious.
+- They follow horror-leaning indie devs on X / YouTube. They watch dev streams. They wishlist obscure things and wait.
 
 Secondary audience: the gamedev community (developers, journalists, publishers) — relevant for networking, press, and industry credibility, but not the primary content target.
 

@@ -24,7 +24,13 @@ Four principles that must be present in every game. If a feature, mechanic, or d
 
 **Target Player Experience**
 
-The player finishes the game and sits with it. Something stuck. Not a moment of triumph — something quieter than that. The feeling after *Outer Wilds* ends: the sense that the world just revealed something true, and you're different for having seen it. This is the target state. Design backward from it.
+The player finishes the game — or finishes a five-minute run — and sits with it. Something stuck. Not the fading buzz of a clean win, but a quieter residue: the sense that the world (or the system, or the room they were just trapped in) revealed something true, and they're different for having seen it. The feeling after *Outer Wilds* ends. The unease that follows a *Buckshot Roulette* round you barely won. The slow chill after *Inscryption* makes you look at the table differently. This is the target state. Design backward from it.
+
+**Genre Focus**
+
+The studio's working lane is **roguelite horror and psychological horror**, with freedom to pair those genres with whatever mechanical chassis serves the concept (deckbuilders, sims, deduction games, rhythm games — whatever earns its place). Horror is the constant; the form is negotiable. The throughline is *lasting effect*: a game that the player can't stop thinking about an hour, a day, or a week later.
+
+This is a focus, not a fence. A non-horror concept can still be made here if it satisfies the four pillars and produces the same lasting effect.
 
 ---
 
@@ -32,23 +38,27 @@ The player finishes the game and sits with it. Something stuck. Not a moment of 
 
 **The "Fun" Mandate**
 
-Engagement at Ember Horizon means *reading the world*. The player learns to interpret the game's language — which details matter, what the environment is actually communicating, what the system is telling them underneath the surface. The reward for attention is understanding. That understanding is the fun.
+Engagement at Ember Horizon comes from *a loop that doesn't let go*. The mechanic generates dread, recognition, or quiet awe — sometimes all three at once. Whether the player is making a slow-burn deduction or a thirty-second call under pressure, the texture is the same: *something is being communicated through play, and the player can feel it land.*
 
-This is not the 30-seconds-of-fun loop. It's not the dopamine of the Balatro multiplier. It is slower, and it goes deeper.
+This is not the dopamine of a well-tuned Skinner box. It is also not the patient comprehension of a forty-hour exploration game. Both ends of that range are valid; what matters is that the loop carries weight. A single round of a five-minute game can stay with a player as long as a twenty-hour campaign — when the mechanic *is* the meaning.
 
 **Approach to Difficulty**
 
-Earned mastery. The game is not easy, but it does not punish arbitrarily. Difficulty is cognitive, not reflexive — the challenge is in reading the world correctly, not in executing a move precisely. Players struggle because they haven't understood yet. The moment of understanding is the reward.
+Earned mastery. The game is not easy, but it does not punish arbitrarily. Difficulty is cognitive and perceptual — the challenge is in reading the situation correctly, recognizing the pattern, holding your nerve when the moment demands it. Players struggle because they haven't seen what's there yet. The moment of seeing is the reward.
+
+In short-loop horror specifically, mastery is also somatic: managing your own response to dread is part of skill. A practiced player isn't fearless — they're composed. The game should reward composure, not punish hesitation.
 
 Accessibility and mastery are not opposites: a player can engage at a surface level without being blocked, but depth is there for those who look.
 
 **Replayability**
 
-No fixed stance — replayability must serve the concept. If a second playthrough reveals new layers of meaning (because the player now understands the world's language), that is a feature. If replayability requires procedural generation to stay interesting, question whether the core is strong enough.
+Procedural variety is a tool, not a crutch. It earns its place when each run is a fresh *reading* of the same system — when the rules stay constant but the situation forces new judgment, and the player keeps discovering something the system has always been saying. *Buckshot Roulette* and *Inscryption* use procedural and shifting elements to keep the mechanic's edge sharp; that is the right reason to use them.
+
+If a run is interchangeable with the previous run, the proc-gen is wallpaper. Cut it. Replayability has to deepen the loop, not stretch it. A second playthrough — or a hundredth — must reveal something the first one couldn't.
 
 **Innovation vs. Convention**
 
-Establish the genre's foundation. Make the player fluent in the expected language. Then build something on top that recontextualizes what came before. The subversion should feel inevitable in retrospect, not arbitrary.
+Establish the genre's foundation. Make the player fluent in the expected language — the roguelite run, the horror beat, the simulation rhythm, whatever chassis the game uses. Then build something on top that recontextualizes the form. The subversion should feel inevitable in retrospect, not arbitrary.
 
 ---
 
@@ -101,4 +111,4 @@ Tools and workflows are part of the product. A system that requires code changes
 
 ---
 
-*Last updated: 2026-05-09*
+*Last updated: 2026-05-09 — added genre focus (roguelite/psychological horror) and rewrote Gameplay Philosophy around loop-based dread alongside slow comprehension.*
