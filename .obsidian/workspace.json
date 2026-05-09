@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks.md",
+                "file": "concepts/roguelite-horror-ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tasks"
+              "title": "roguelite-horror-ideas"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "25090cd46a1bab88",
   "lastOpenFiles": [
+    "tasks.md",
+    "concepts/roguelite-horror-ideas.md",
+    "concepts/roguelite-horror-ideas.md.tmp.92513.1e5785527494",
     "concepts",
     "business_model.md.tmp.92513.312a34c452c6",
     "business_model.md.tmp.92513.1f0045cc27ab",
@@ -197,7 +200,6 @@
     "studio_design_manifesto.md.tmp.56683.c25333f1f783",
     "plan-studio-systems.md",
     "projects.md",
-    "tasks.md",
     "PROJECT_AURORA_ENTRY_POINT.md",
     "project_aurora.md",
     "marketing/brand/logo-reversed.svg",
@@ -208,8 +210,6 @@
     "marketing/brand/logo-mark.png",
     "studio_design_manifesto.md",
     "plan-community-presence.md.tmp.128015.699e04f15c79",
-    "plan-community-presence.md.tmp.128015.4237c71f4c5b",
-    "tasks.md.tmp.128015.95601483ffbe",
     "marketing/brand_new/logo-primary.svg",
     "marketing/brand/brand-colors.md",
     "plan-community-presence.md",
