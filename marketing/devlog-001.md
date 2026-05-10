@@ -14,7 +14,11 @@ This is where it starts.
 
 ---
 
-Why does Ember Horizon Studios exist?
-I started Ember Horizon Studios because I wanted a sense of autonomy in life. It was time to set my own vision and work towards it in a way that gives me purpose and aligns with my values. Starting a solo indie game studios happened to be an intersection of my interests and skills that I think is attainable for me.
+I founded Ember Horizon Studios to gain autonomy. It is the path I have chosen to ensure my work aligns with my values and serves a clear purpose. A solo indie studio is the natural intersection of my technical skills and my interests. I have the discipline to see this through and the clarity of vision to make it meaningful.
 
-I always felt like I was serving someone else purpose and vision. With a solo indie game studio, I have control over the direction and actions taken towards that I set. I wanted something that I can call my own.
+My goal is to use this interactive medium to make people think. I view games as more than just a source of distraction; when built with intent, they are a powerful way to explore the questions of life. My focus is on developing premium titles for PC and console.
+
+This past week, I have established the legal and financial foundations of the studio. I have opened public accounts, reserved domains, and started this log to communicate with the community.
+
+I am currently triage-testing several game ideas. Each project is evaluated against a strict set of criteria: differentiation, market signal, personal resonance, and solo feasibility. The concept that survives this process will become the debut title. I will share more on the shortlist soon.
+
