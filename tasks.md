@@ -87,7 +87,9 @@ Tasks are generated one milestone at a time. M3 tasks are not generated until M2
 
 ---
 
-## Active: P3-M3 — First Devlog Published
+## Closed: P3-M3 — First Devlog Published ✓
+
+*Closed 2026-05-10. Devlog 001 published as a 4-post thread on X. Content calendar drafted in `marketing/content-calendar.md` covering 4 weeks at 3 posts/week.*
 
 *Goal: First devlog published on the primary channel (X). Content covers studio origin, what's being built, and what to expect. Content plan for the next 4 weeks drafted in `marketing/content-calendar.md`.*
 
@@ -139,12 +141,30 @@ Tasks are generated one milestone at a time. M3 tasks are not generated until M2
 
 ---
 
+## Active: P2-M2 — AI Pipeline & Creative Tools
+
+*Goal: ComfyUI workflows validated for concept art and reference generation. AI tools for writing support and audio reference identified and accessible. AI strategy inputs reviewed and distilled into a one-page studio AI playbook.*
+
+*Tasks run roughly in sequence — model selection first, then workflow build, then tool identification, then playbook synthesis.*
+
+| #   | Task                                                                                                                                                                                                        | Value tags                     | Energy | Est. Min | Status  | Due |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------ | -------- | ------- | --- |
+| 1   | Select a ComfyUI checkpoint model suited to psychological horror aesthetics — evaluate options (e.g. Juggernaut XL, DreamShaper, SDXL base); record the chosen model and rationale in `plan-studio-systems.md` | Intellectual Inquiry           | M      | 30       | Not started |     |
+| 2   | Build a text-to-image ComfyUI workflow for concept art — include a positive/negative prompt template tuned for horror; run 3–5 test generations and confirm output is usable for reference work              | Intellectual Inquiry, Autonomy | H      | 90       | Not started |     |
+| 3   | Build a secondary img2img ComfyUI workflow for iteration — take a rough sketch or earlier output and refine it; confirm the feedback loop works end-to-end                                                  | Intellectual Inquiry, Autonomy | M      | 60       | Not started |     |
+| 4   | Identify and confirm access to writing support tools — evaluate Claude.ai (already in use), Notion AI, or other options; record chosen tool(s) and use cases in `studio-ai-playbook.md` stub               | Intellectual Inquiry           | L      | 20       | Not started |     |
+| 5   | Identify and confirm access to audio reference tools — evaluate Suno, Udio, and ElevenLabs; create accounts for top choices; note licensing terms and Steam disclosure implications                          | Intellectual Inquiry           | L      | 30       | Not started |     |
+| 6   | Distill AI strategy inputs into `studio-ai-playbook.md` — synthesize `ai-augmented_solo_indie_studio_blueprint.md` + M1/M2 learnings into a one-page doc covering: tools stack, use cases, and platform disclosure rules | Intellectual Inquiry, Stewardship | M   | 60       | Not started |     |
+
+**M2 energy profile:** Tasks 1–3 are the hands-on ComfyUI work — do task 1 in one short session, then block 2–3 hours for tasks 2 and 3 together. Tasks 4 and 5 are lightweight research, fine to do in parallel or in a single sitting. Task 6 is synthesis — best done after everything else is in place so the playbook reflects actual decisions.
+
+---
+
 ## Backlog
 
 *Captured items not yet assigned to an active milestone. Processed during Weekly Review.*
 
 - Evaluate business consultant (Gemini gem reference) — *evaluate fit against P2/P3 before promoting*
-- Review AI strategy consultant report (Gemini gem reference) — *promoted to P2-M2 (M1 closed 2026-05-06)*
 - Implement Age Gate and Privacy Policy on website — *belongs to P3; promote when P3 plan is built*
 - Studio design manifesto — *reference document; complete before P3-M2 (web presence)*
 - Game conventions document — *belongs to P4 plan; hold until P4 unlocks*

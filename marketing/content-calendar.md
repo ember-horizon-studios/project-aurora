@@ -45,11 +45,11 @@ The calendar below is a starting scaffold. Adjust dates and swap topics as reali
 
 *Anchor: Either a concept has survived or you're narrowing. Either way, something to say.*
 
-| Day | Pillar | Format | Draft prompt |
-|---|---|---|---|
-| Mon 05-26 | The Work | Thread (2–3 posts) | Reference titles that shaped your thinking — *Buckshot Roulette*, *Inscryption*, *Mouthwashing* — and what specific design decisions in those games you're studying. |
-| Wed 05-28 | The Journey | Short post | Honest state of the studio at week 3. What's moved, what hasn't. Keep it one paragraph. |
-| Fri 05-30 | The Experience | Short post | A question for the audience — something you're genuinely wrestling with about the game or the genre. Invites replies without baiting engagement. |
+| Day       | Pillar         | Format             | Draft prompt                                                                                                                                                         |
+| --------- | -------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mon 05-26 | The Work       | Thread (2–3 posts) | Reference titles that shaped your thinking — *Buckshot Roulette*, *Inscryption*, *Mouthwashing* — and what specific design decisions in those games you're studying. |
+| Wed 05-28 | The Journey    | Short post         | Honest state of the studio at week 3. What's moved, what hasn't. Keep it one paragraph.                                                                              |
+| Fri 05-30 | The Experience | Short post         | A question for the audience — something you're genuinely wrestling with about the game or the genre. Invites replies without baiting engagement.                     |
 
 ---
 
