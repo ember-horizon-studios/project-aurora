@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/devlog-001.md",
+                "file": "marketing/content-calendar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "devlog-001"
+              "title": "content-calendar"
             }
           }
         ]
@@ -187,13 +187,18 @@
   },
   "active": "25090cd46a1bab88",
   "lastOpenFiles": [
+    "tasks.md",
+    "tasks.md.tmp.59323.da3486431a04",
+    "marketing/content-calendar.md",
+    "marketing/content-calendar.md.tmp.59323.f189632800c9",
+    "tasks.md.tmp.59323.f19e1cd5f9a7",
     "marketing/strategy.md",
-    "marketing/devlog-001.md.tmp.9041.6f8ce863a906",
     "marketing/devlog-001.md",
+    "marketing/brand/logo-primary.png",
+    "marketing/devlog-001.md.tmp.9041.6f8ce863a906",
     "concepts/roguelite-horror-ideas.md",
     "plan-legal-formation.md",
     "plan-studio-systems.md",
-    "tasks.md",
     "studio_design_manifesto.md",
     "templates/one_pager_concept_document.md",
     "templates/pitch_deck.md",
@@ -203,9 +208,6 @@
     "business_model.md.tmp.92513.1f0045cc27ab",
     "business_model.md.tmp.92513.399df8183633",
     "marketing/strategy.md.tmp.91012.4c38f6c7c48f",
-    "studio_design_manifesto.md.tmp.91012.681ad027fa4e",
-    "studio_design_manifesto.md.tmp.91012.5846841eff36",
-    "studio_design_manifesto.md.tmp.56683.c25333f1f783",
     "projects.md",
     "PROJECT_AURORA_ENTRY_POINT.md",
     "project_aurora.md",
@@ -228,9 +230,7 @@
     "gmtk_gamedev101.md",
     "legal/operating-agreement.md",
     "video_game_development_process.md",
-    "llc_filing_template.md",
     "images/populous_agario_prophecy.png",
-    "images/divine_inspiration_tree_cult_of_the_lamb.png",
-    "images/age_of_empires_and_populous_characters.png"
+    "images/divine_inspiration_tree_cult_of_the_lamb.png"
   ]
 }
