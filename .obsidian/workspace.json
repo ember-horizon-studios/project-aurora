@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing/strategy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "strategy"
-            }
-          },
-          {
-            "id": "e57b3591e5fd45ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "marketing/devlog-001.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "devlog-001"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "8dd9db5576f64cd3",
@@ -201,9 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e57b3591e5fd45ab",
+  "active": "25090cd46a1bab88",
   "lastOpenFiles": [
     "marketing/strategy.md",
+    "marketing/devlog-001.md.tmp.9041.6f8ce863a906",
     "marketing/devlog-001.md",
     "concepts/roguelite-horror-ideas.md",
     "plan-legal-formation.md",
@@ -230,7 +215,6 @@
     "marketing/brand/logo-mono-dark.svg",
     "marketing/brand/logo-mark.svg",
     "marketing/brand/logo-mark.png",
-    "plan-community-presence.md.tmp.128015.699e04f15c79",
     "marketing/brand_new/logo-primary.svg",
     "marketing/brand/brand-colors.md",
     "plan-community-presence.md",
@@ -245,7 +229,6 @@
     "legal/operating-agreement.md",
     "video_game_development_process.md",
     "llc_filing_template.md",
-    "steam_market_research.md",
     "images/populous_agario_prophecy.png",
     "images/divine_inspiration_tree_cult_of_the_lamb.png",
     "images/age_of_empires_and_populous_characters.png"
