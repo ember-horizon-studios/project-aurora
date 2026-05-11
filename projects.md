@@ -32,14 +32,16 @@
 
 ## P3 — Community Presence
 
-**Status:** Active
+**Status:** Closed ✓ 2026-05-10
 **Activated:** 2026-05-05
-**Plan:** `plan-community-presence.md` *(not yet built — generate before P3-M1 tasks)*
+**Plan:** `plan-community-presence.md`
 **Tasks:** `tasks.md` → filter P3
 
 **Scope:** At minimum one social channel live, first public devlog post published, basic press-ready studio description written. Domain registered (may overlap with P2-M3).
 
 **Unlock Condition:** ✓ Met 2026-05-04 (studio name confirmed). P3-M1 tasks held until plan is built.
+
+**Success Criteria:** All met. Studio identity written, social channels live (@EmberHznStudios across 8 platforms), domain live (emberhorizonstudios.com), four email aliases active, logo finalized and uploaded, pinned intro post live on X, devlog 001 published as 4-post thread, 4-week content calendar drafted.
 
 ---
 
@@ -66,3 +68,6 @@
 | 2026-05-04 | P1 | M1 closed. P3 unlock condition met (studio name confirmed). P1 now on M2. |
 | 2026-05-04 | P1 | M2 closed. EIN in hand. P1 now on M3. P2 unlock pending M3 bank account. |
 | 2026-05-05 | P1 | M3 closed. M4 closed. P1 fully closed. P2 and P3 activated. P2 plan built (plan-studio-systems.md). P2-M1 tasks generated. P3 plan deferred to next session. |
+| 2026-05-10 | P2 | Fully closed. M2 (AI pipeline) and M4 (subscriptions) closed. Single recurring cost: Claude Pro $20/mo. |
+| 2026-05-10 | P3 | Fully closed. All three milestones complete: studio identity, public presence, first devlog published. Content calendar in marketing/content-calendar.md. |
+| 2026-05-10 | P4 | P2 closed — P4 unlock condition 2 met. Awaiting concept triage pass to satisfy condition 1. |
