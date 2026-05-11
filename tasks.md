@@ -141,22 +141,24 @@ Tasks are generated one milestone at a time. M3 tasks are not generated until M2
 
 ---
 
-## Active: P2-M2 — AI Pipeline & Creative Tools
+## Closed: P2-M2 — AI Pipeline & Creative Tools ✓
 
-*Goal: ComfyUI workflows validated for concept art and reference generation. AI tools for writing support and audio reference identified and accessible. AI strategy inputs reviewed and distilled into a one-page studio AI playbook.*
+*Closed 2026-05-10. ComfyUI workflows validated (txt2img + img2img). Prompt guide saved to `comfyui-prompt-guide.md`. Writing support confirmed (Claude). Audio tools: Suno and ElevenLabs accounts created; Piper TTS and Kokoro TTS installed locally. AI playbook written to `studio-ai-playbook.md`. M3 and M4 now unlocked — M3 (domain/email) already closed via P3-M2; M4 (subscriptions baseline) can begin.*
 
-*Tasks run roughly in sequence — model selection first, then workflow build, then tool identification, then playbook synthesis.*
-
-| #   | Task                                                                                                                                                                                                                     | Value tags                        | Energy | Est. Min | Status      | Due |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------ | -------- | ----------- | --- |
+| #   | Task                                                                                                                                                                                                                     | Value tags                        | Energy | Est. Min | Status    | Due |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------ | -------- | --------- | --- |
 | 1   | Select a ComfyUI checkpoint model suited to psychological horror aesthetics — evaluate options (e.g. Juggernaut XL, DreamShaper, SDXL base); record the chosen model and rationale in `plan-studio-systems.md`           | Intellectual Inquiry              | M      | 30       | Completed |     |
 | 2   | Build a text-to-image ComfyUI workflow for concept art — include a positive/negative prompt template tuned for horror; run 3–5 test generations and confirm output is usable for reference work                          | Intellectual Inquiry, Autonomy    | H      | 90       | Completed |     |
 | 3   | Build a secondary img2img ComfyUI workflow for iteration — take a rough sketch or earlier output and refine it; confirm the feedback loop works end-to-end                                                               | Intellectual Inquiry, Autonomy    | M      | 60       | Completed |     |
-| 4   | Identify and confirm access to writing support tools — evaluate Claude.ai (already in use), Notion AI, or other options; record chosen tool(s) and use cases in `studio-ai-playbook.md` stub                             | Intellectual Inquiry              | L      | 20       | In progress |     |
-| 5   | Identify and confirm access to audio reference tools — evaluate Suno, Udio, and ElevenLabs; create accounts for top choices; note licensing terms and Steam disclosure implications                                      | Intellectual Inquiry              | L      | 30       | In progress |     |
-| 6   | Distill AI strategy inputs into `studio-ai-playbook.md` — synthesize `ai-augmented_solo_indie_studio_blueprint.md` + M1/M2 learnings into a one-page doc covering: tools stack, use cases, and platform disclosure rules | Intellectual Inquiry, Stewardship | M      | 60       | Not started |     |
+| 4   | Identify and confirm access to writing support tools — evaluate Claude.ai (already in use), Notion AI, or other options; record chosen tool(s) and use cases in `studio-ai-playbook.md` stub                             | Intellectual Inquiry              | L      | 20       | Completed |     |
+| 5   | Identify and confirm access to audio reference tools — evaluate Suno, Udio, and ElevenLabs; create accounts for top choices; note licensing terms and Steam disclosure implications                                      | Intellectual Inquiry              | L      | 30       | Completed |     |
+| 6   | Distill AI strategy inputs into `studio-ai-playbook.md` — synthesize `ai-augmented_solo_indie_studio_blueprint.md` + M1/M2 learnings into a one-page doc covering: tools stack, use cases, and platform disclosure rules | Intellectual Inquiry, Stewardship | M      | 60       | Completed |     |
 
-**M2 energy profile:** Tasks 1–3 are the hands-on ComfyUI work — do task 1 in one short session, then block 2–3 hours for tasks 2 and 3 together. Tasks 4 and 5 are lightweight research, fine to do in parallel or in a single sitting. Task 6 is synthesis — best done after everything else is in place so the playbook reflects actual decisions.
+---
+
+## Closed: P2-M4 — Subscriptions Baseline ✓
+
+*Closed 2026-05-10. Single recurring cost: Claude Pro at $20/month. All other tools are free tiers or local. Ledger saved to `finance/subscriptions.md`. P2 fully closed.*
 
 ---
 
