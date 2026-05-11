@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plan-community-presence.md",
+                "file": "business_model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan-community-presence"
+              "title": "business_model"
             }
           }
         ]
@@ -187,15 +187,22 @@
   },
   "active": "25090cd46a1bab88",
   "lastOpenFiles": [
+    "comfyui-prompt-guide.md",
+    "Feature backlog schema.md",
+    "game_idea_archive.md",
+    "values.md",
+    "research/systematic_ideation_and_engineering_of_game_concepts.md",
+    "project_aurora.md",
+    "plan-studio-systems.md",
+    "plan-legal-formation.md",
+    "plan-community-presence.md",
+    "tasks.md",
+    "projects.md",
     "concepts/concept-triage-2026-05-10.md",
+    "concepts/roguelite-horror-ideas.md",
     "concepts/concept-triage-2026-05-10.md.tmp.91002.cdeefb303199",
     "projects.md.tmp.91002.1bc436c552af",
     "projects.md.tmp.91002.2515ed9cc600",
-    "plan-legal-formation.md",
-    "plan-studio-systems.md",
-    "projects.md",
-    "tasks.md",
-    "plan-community-presence.md",
     "studio-ai-playbook.md",
     "finance/subscriptions.md.tmp.89776.b8f9c88b849a",
     "finance/subscriptions.md.tmp.89776.73b6a122fe42",
@@ -205,10 +212,7 @@
     "finance/subscriptions.md.tmp.89260.b76c2dace738",
     "finance",
     "plan-studio-systems.md.tmp.87694.e435985a3d92",
-    "comfyui-prompt-guide.md",
     "studio_design_manifesto.md",
-    "Feature backlog schema.md",
-    "game_idea_archive.md",
     "gmtk_gamedev101.md",
     "video_game_development_process.md",
     "Untitled.md",
@@ -216,11 +220,9 @@
     "marketing/strategy.md",
     "marketing/devlog-001.md",
     "marketing/brand/logo-primary.png",
-    "concepts/roguelite-horror-ideas.md",
     "templates/one_pager_concept_document.md",
     "templates/pitch_deck.md",
     "PROJECT_AURORA_ENTRY_POINT.md",
-    "project_aurora.md",
     "marketing/brand/logo-reversed.svg",
     "marketing/brand/logo-primary.svg",
     "marketing/brand/logo-mono-light.svg",
@@ -229,8 +231,6 @@
     "marketing/brand/logo-mark.png",
     "marketing/brand_new/logo-primary.svg",
     "marketing/brand/brand-colors.md",
-    "marketing/studio-bio.md",
-    "values.md",
     "images/populous_agario_prophecy.png",
     "images/divine_inspiration_tree_cult_of_the_lamb.png"
   ]
