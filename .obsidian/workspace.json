@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comfyui-prompt-guide.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "comfyui-prompt-guide"
+              "title": "tasks"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "25090cd46a1bab88",
   "lastOpenFiles": [
-    "tasks.md",
+    "tasks.md.tmp.84423.3b8eead51a61",
     "comfyui-prompt-guide.md",
+    "tasks.md",
     "comfyui-prompt-guide.md.tmp.62769.e03957ac2bc3",
     "projects.md",
     "plan-studio-systems.md",
@@ -230,7 +231,6 @@
     "values.md",
     "types of features.md",
     "marketing/account-setup-checklist.md",
-    "legal/operating-agreement.md",
     "images/populous_agario_prophecy.png",
     "images/divine_inspiration_tree_cult_of_the_lamb.png"
   ]
