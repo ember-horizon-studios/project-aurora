@@ -185,8 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25090cd46a1bab88",
+  "active": "888163060698b210",
   "lastOpenFiles": [
+    "concepts/prometheus-array-roguelite-game-design-document.docx",
+    "concepts/prometheus-array-roguelite-concept-and-pitch.docx",
     "comfyui-prompt-guide.md",
     "Feature backlog schema.md",
     "game_idea_archive.md",
@@ -211,7 +213,6 @@
     "finance/subscriptions.md",
     "finance/subscriptions.md.tmp.89260.b76c2dace738",
     "finance",
-    "plan-studio-systems.md.tmp.87694.e435985a3d92",
     "studio_design_manifesto.md",
     "gmtk_gamedev101.md",
     "video_game_development_process.md",
@@ -230,7 +231,6 @@
     "marketing/brand/logo-mark.svg",
     "marketing/brand/logo-mark.png",
     "marketing/brand_new/logo-primary.svg",
-    "marketing/brand/brand-colors.md",
     "images/populous_agario_prophecy.png",
     "images/divine_inspiration_tree_cult_of_the_lamb.png"
   ]
