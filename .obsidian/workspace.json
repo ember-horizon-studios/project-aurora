@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business_model.md",
-                "mode": "source",
+                "file": "concepts/Untitled.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "business_model"
+              "title": "Untitled"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "8dd9db5576f64cd3",
@@ -185,8 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "888163060698b210",
+  "active": "25090cd46a1bab88",
   "lastOpenFiles": [
+    "business_model.md",
+    "concepts/Untitled.md",
     "concepts/prometheus-array-roguelite-game-design-document.docx",
     "concepts/prometheus-array-roguelite-concept-and-pitch.docx",
     "comfyui-prompt-guide.md",
@@ -212,7 +215,6 @@
     "tasks.md.tmp.89260.2fea23bc6cf2",
     "finance/subscriptions.md",
     "finance/subscriptions.md.tmp.89260.b76c2dace738",
-    "finance",
     "studio_design_manifesto.md",
     "gmtk_gamedev101.md",
     "video_game_development_process.md",
@@ -223,7 +225,6 @@
     "marketing/brand/logo-primary.png",
     "templates/one_pager_concept_document.md",
     "templates/pitch_deck.md",
-    "PROJECT_AURORA_ENTRY_POINT.md",
     "marketing/brand/logo-reversed.svg",
     "marketing/brand/logo-primary.svg",
     "marketing/brand/logo-mono-light.svg",
